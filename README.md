@@ -46,3 +46,16 @@ Possibly other business metrics
 Create a predictive model that helps businesses estimate future sales, leading to better budgeting, campaign planning, and sales optimization.
 
 Let me know if you'd like a report format, Jupyter Notebook template, or project explanation for submission.
+
+Output
+
+![Screenshot 2025-07-10 003433](https://github.com/user-attachments/assets/ff615446-e187-4c7c-a6b9-03a085f3d6ff)
+
+![Screenshot 2025-07-10 003453](https://github.com/user-attachments/assets/ad422beb-b560-4221-8ffc-0a4b39297451)
+
+![Screenshot 2025-07-10 003459](https://github.com/user-attachments/assets/01552be1-767d-4fe8-9c05-9d896996ef67)
+
+
+
+
+
