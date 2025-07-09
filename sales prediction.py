@@ -20,8 +20,8 @@ plt.title("Feature Correlation")
 plt.show()
 
 
-X = df[['TV', 'Radio', 'Newspaper']]  # Features (ad spend)
-y = df['Sales']                      # Target (sales)
+X = df[['TV', 'Radio', 'Newspaper']]  
+y = df['Sales']                      
 
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
